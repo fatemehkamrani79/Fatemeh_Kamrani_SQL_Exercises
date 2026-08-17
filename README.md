@@ -1,6 +1,6 @@
 # SQL Exercises
 
-This repository contains my SQL exercises from the Data Analyst Training Program at Tose'e Institute, taught by Dr. Ehsan Khakbazian.
+This repository contains my SQL exercises from the Data Analyst Training Program at Tose'e Institute, taught by Dr. Ehsan Khakbazan.
 
 The exercises cover basic queries, grouping, joins, subqueries, window functions, and a sales report built from several related tables.
 
