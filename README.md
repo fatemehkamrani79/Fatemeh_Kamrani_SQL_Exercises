@@ -7,7 +7,7 @@ The exercises cover basic queries, grouping, joins, subqueries, window functions
 ## Assignment Information
 
 - **Institute:** Tose'e Institute
-- **Instructor:** Dr. Ehsan Khakbazian
+- **Instructor:** Dr. Ehsan Khakbazan
 - **Course:** Data Analyst Training Program
 - **Tool:** Microsoft SQL Server
 - **Language:** T-SQL
@@ -59,9 +59,9 @@ The databases are not included in this repository. The SQL files use the databas
 
 ## Notes
 
-- The queries are written for Microsoft SQL Server.
-- Exercise 01 includes an `UPDATE` statement for replacing missing allergy values with `NKA`. Run it only on a practice copy of the database.
-- The Northwind and Sepidar exercises use different database structures, so each file should be run against the correct database.
+These files were written for Microsoft SQL Server.
+Exercise 01 changes missing allergy values to `NKA`, so it should be run on a practice copy of the database.
+Northwind and Sepidar use different database structures. Make sure to select the correct database before running each file.
 
 ## Author
 
